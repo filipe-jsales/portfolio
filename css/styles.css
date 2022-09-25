@@ -174,13 +174,8 @@ body {
 	color: grey;
 }
 
-.div-socials{
-	width: 70px;
-	height: 70px;
-}
-
-.div-socials .social-img {
-	width: 100%;
+.social-img {
+	width: 50px;
 	margin-right: 10px;
 }
 
