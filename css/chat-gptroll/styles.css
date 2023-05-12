@@ -1,0 +1,27 @@
+
+.chat_gptroll__body {
+	font-family: 'Montserrat', sans-serif;
+} 
+
+.background_color_theme {
+	background-color: rgba(52,53,65,1);
+
+}
+
+.div__align_center {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.div_user__question {
+	color: #fff;
+}
+
+.div_chat__answer {
+	flex: auto;
+	margin-bottom: 400px;
+}
+
+.div__user_preview__question {
+	color: #fff;	
+}
